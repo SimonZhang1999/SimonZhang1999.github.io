@@ -1,4 +1,4 @@
-# Academic Pages
+# SimonZhang1999.github.io
 
 The personal webpage for Weijian Zhang
 
